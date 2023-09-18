@@ -18,3 +18,7 @@ print(s)
 var s = "js test!";
 alert(s);
 ```
+|left-Aligned|center-Aligned|right-Aligned|
+|:-----------|:------------:|------------:|
+|test        |center        |right        |
+|pigboss     |shockingNeko  |masaga       |
