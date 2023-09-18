@@ -14,7 +14,7 @@ s = "this is for test!"
 print(s)
 ```
 ## javaScript
-```javaScript
+```js
 var s = "js test!";
 alert(s);
 ```
