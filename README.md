@@ -7,8 +7,14 @@
 - [x] To do list
 - [ ] 2nd
 - [ ] 3nd
-
+      
+## python
 ``` python
 s = "this is for test!"
 print(s)
+```
+## javaScript
+```javaScript
+var s = "js test!";
+alert(s);
 ```
